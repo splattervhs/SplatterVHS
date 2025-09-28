@@ -1,16 +1,18 @@
-## Hi there 👋
+# Splatter VHS // Glitch Lab  
+💀 Horror • 🎹 Synthwave • 🤖 Animatronics • ⚡ Glitchcore  
 
-<!--
-**splattervhs/SplatterVHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Cryptid — the final boy behind Splatter VHS.  
+With Nyx, the glitch girl, I’m building a synthwave horror universe of music, animatronics, and stage shows.  
 
-Here are some ideas to get you started:
+### 🔧 Current Builds  
+- Animatronic body for Nyx (servo + Arduino projects)  
+- Splatter VHS music + glitch visuals  
+- Game dev + glitchcore experiments  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Find Us  
+🌍 [SplatterVHS.com](#) | 🎵 [Spotify](https://open.spotify.com/artist/25AWcbEE8TBj81OYEfmpDJ?si=f6qnRXBLTauf1bUP_vU9IA) | 📺 [YouTube](https://www.youtube.com/@splattervhs) | 📷 [Instagram](https://www.instagram.com/splattervhs/)  
+
+---
+
+> *“Every line of code, every servo is a doorway.”*  
+
